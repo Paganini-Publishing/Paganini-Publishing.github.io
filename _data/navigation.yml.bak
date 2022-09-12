@@ -7,9 +7,27 @@
   side: left
   dropdown:
   - title: "The Wedding Companion Standard Editions"
-    url: "/theweddingcompanion/stringquartetstandard/"
+    url: "/stringquartets/theweddingcompanionstandard/"
   - title: "The Wedding Companion Deluxe Editions"
-    url: "/theweddingcompanion/stringquartetdeluxe/"
+    url: "/stringquartets/theweddingcompaniondeluxe/"
+    
+- title: "String Trio Music"
+  url: "/stringtrios/"
+  side: left
+  dropdown:
+  - title: "The Wedding Companion Standard Editions"
+    url: "/stringtrios/theweddingcompanionstandard/"
+  - title: "The Wedding Companion Deluxe Editions"
+    url: "/stringtrios/theweddingcompaniondeluxe/"
+    
+- title: "String Duet Music"
+  url: "/stringduets/"
+  side: left
+  dropdown:
+  - title: "The Wedding Companion Standard Editions"
+    url: "/stringduets/theweddingcompanionstandard/"
+  - title: "The Wedding Companion Deluxe Editions"
+    url: "/stringduets/theweddingcompaniondeluxe/"
 
 - title: About
   url: "/about/"
