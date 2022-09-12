@@ -99,8 +99,8 @@ $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
+$topbar-menu-link-color-toggled: $ci-6;
+$topbar-menu-icon-color-toggled: $ci-6;
 
 
 
@@ -109,7 +109,7 @@ $topbar-menu-icon-color-toggled: $ci-1;
 
 $footer-bg          : $grey-8;
 $footer-color       : #fff;
-$footer-link-color  : $ci-1;
+$footer-link-color  : $ci-6;
 
 
 $subfooter-bg       : $grey-13;
