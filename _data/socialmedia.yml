@@ -28,10 +28,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/paganinipublishing/
+  class: icon-instagram
+  title: "Follow us on Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
