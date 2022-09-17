@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "String Quartet Music"
+- title: "String Quartets"
   url: "/stringquartets/"
   side: left
   dropdown:
@@ -11,7 +11,7 @@
   - title: "The Wedding Companion Deluxe Editions"
     url: "/stringquartets/theweddingcompaniondeluxe/"
     
-- title: "String Trio Music"
+- title: "String Trios"
   url: "/stringtrios/"
   side: left
   dropdown:
@@ -20,7 +20,7 @@
   - title: "The Wedding Companion Deluxe Editions"
     url: "/stringtrios/theweddingcompaniondeluxe/"
     
-- title: "String Duet Music"
+- title: "String Duets"
   url: "/stringduets/"
   side: left
   dropdown:
